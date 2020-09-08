@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: This repo is awesome, if you use it please cite me
+authors:
+  - family-names: Weel
+    given-names: berend
+title: "Fair software workshop"
+version: 0.5.0
+doi:
+date-released: 2020-09-08
